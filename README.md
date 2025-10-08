@@ -1,2 +1,0 @@
-# swift
-Social Media platform
